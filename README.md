@@ -22,7 +22,8 @@
 ## About The Project
 
 It contains different ML projects which created by using seaborn datasets.
-
+1. [Pulse Prediction Project with Random Forest Classification](https://github.com/zehrarhez/seaborn_ML_models/tree/main/pulse_prediction_RFC)
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
