@@ -32,7 +32,7 @@ It contains different ML projects which created by using seaborn datasets.
 <!-- Embedded Python Logo -->
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python Logo" width="200"/>
 <img src="https://www.pngkey.com/png/full/532-5326567_there-is-a-tool-for-load-testing-the.png" alt="Jupyter Logo" width="200"/>
-<img src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" alt="Flask Logo" width="200"/>
+<img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" alt="Flask Logo" width="200"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
