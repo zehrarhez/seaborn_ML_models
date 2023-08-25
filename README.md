@@ -1,4 +1,4 @@
-## SEABORN MACHINE LEARNING PROJECTS
+# SEABORN MACHINE LEARNING PROJECTS
 <img src="https://static.vecteezy.com/system/resources/thumbnails/010/853/650/small/cardiogram-cardiograph-oscilloscope-screen-illustration-background-free-png.png" alt="pulse" width=250\>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +34,6 @@ It contains different ML projects which created by using seaborn datasets.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## Built With
 
 <!-- Embedded Python Logo -->
@@ -47,7 +46,7 @@ It contains different ML projects which created by using seaborn datasets.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+# Contributing
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b `)
@@ -60,7 +59,7 @@ It contains different ML projects which created by using seaborn datasets.
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Zehra ÖZEREN - zehrarhezz9@gmail.com
 
