@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about">About</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#projects">Projects</a></li>
@@ -19,8 +19,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT  -->
+# About
 
 It contains different ML projects which created by using seaborn datasets.
 
