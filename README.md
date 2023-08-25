@@ -1,5 +1,5 @@
 ## SEABORN MACHINE LEARNING PROJECTS
-<img src="https://png.pngtree.com/png-vector/20210925/ourmid/pngtree-heartbeat-or-heart-pulse-cardiogram-line-png-image_3958596.png" alt="insurance" width=250>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/010/853/650/small/cardiogram-cardiograph-oscilloscope-screen-illustration-background-free-png.png" alt="insurance" width=250>
 
 <!-- TABLE OF CONTENTS -->
 <details>
