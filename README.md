@@ -22,7 +22,10 @@
 ## About The Project
 
 It contains different ML projects which created by using seaborn datasets.
-1. [Pulse Prediction Project with Random Forest Classification](https://github.com/zehrarhez/seaborn_ML_models/tree/main/pulse_prediction_RFC)
+1. Pulse Prediction Project with Random Forest Classification
+   ● In this project, pulse is predicted by entering the activity status, activity time and weight status.
+   ● Project has a Flask app to be able to serve the last user.
+   [Project Details](https://github.com/zehrarhez/seaborn_ML_models/tree/main/pulse_prediction_RFC)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
