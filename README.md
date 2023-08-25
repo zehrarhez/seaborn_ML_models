@@ -9,6 +9,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#projects">Projects</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
@@ -22,6 +23,8 @@
 ## About The Project
 
 It contains different ML projects which created by using seaborn datasets.
+
+## Projects
 ## 1. Pulse Prediction Project with Random Forest Classification <br>
    ● In this project, pulse is predicted by entering the activity status, activity time and weight status. <br>
    ● Project has a Flask app to be able to serve the last user. <br>
