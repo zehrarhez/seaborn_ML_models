@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pulse Predictor</title>
+</head>
+<body>
+    <h1>Pulse Predictor</h1>
+    <form action="/predict" method="post">
+        <label for="kind">Activity: </label>
+        <input type="radio" id="kind1" name="kind" value="0" required>
+        <label for="kind1">Resting</label>
+        <input type="radio" id="kind2" name="kind" value="1" required>
+        <label for="kind2">Walking</label>
+        <input type="radio" id="kind3" name="kind" value="2" required>
+        <label for="kind3">Running</label><br><br>
+        <br>
+        <label for="time">Time: </label>
+        <input type="radio" id="time0" name="time" value="0" required>
+        <label for="time0">1min</label>
+        <input type="radio" id="time1" name="time" value="1" required>
+        <label for="time1">15mins</label>
+        <input type="radio" id="time2" name="time" value="2" required>
+        <label for="time2">30mins</label><br><br>
+        <br>
+        <label for="diet">Diet: </label>
+        <input type="radio" id="diet0" name="diet" value="0" required>
+        <label for="diet0">Low Fat</label>
+        <input type="radio" id="diet1" name="diet" value="1" required>
+        <label for="diet1">Regular</label><br><br>
+
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
