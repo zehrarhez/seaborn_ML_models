@@ -22,7 +22,7 @@
 ## About The Project
 
 It contains different ML projects which created by using seaborn datasets.
-# 1. Pulse Prediction Project with Random Forest Classification <br>
+## 1. Pulse Prediction Project with Random Forest Classification <br>
    ● In this project, pulse is predicted by entering the activity status, activity time and weight status. <br>
    ● Project has a Flask app to be able to serve the last user. <br>
    <br>
