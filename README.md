@@ -1,6 +1,6 @@
 ## SEABORN MACHINE LEARNING PROJECTS
-<img src="https://static.vecteezy.com/system/resources/thumbnails/010/853/650/small/cardiogram-cardiograph-oscilloscope-screen-illustration-background-free-png.png" alt="insurance" width=250>
-
+<img src="https://static.vecteezy.com/system/resources/thumbnails/010/853/650/small/cardiogram-cardiograph-oscilloscope-screen-illustration-background-free-png.png" alt="pulse" width=250\>
+<img src="https://www.nicepng.com/png/full/6-65038_white-ekg-pulse-heart-rate-heartbeat-clipart-png.png" alt="pulse" width="250"\>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
