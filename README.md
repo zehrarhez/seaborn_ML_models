@@ -1,5 +1,5 @@
 # SEABORN MACHINE LEARNING PROJECTS
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmwaskom%2Fseaborn%2Fissues%2F2243&psig=AOvVaw07fdlrZ9n5dT2DWh6UHbr6&ust=1694514837804000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCfuemtooEDFQAAAAAdAAAAABAQ" alt="pulse" width=250\>
+<img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="pulse" width=250\>
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
