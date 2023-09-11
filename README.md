@@ -1,5 +1,5 @@
 # SEABORN MACHINE LEARNING PROJECTS
-<img src="https://static.vecteezy.com/system/resources/thumbnails/010/853/650/small/cardiogram-cardiograph-oscilloscope-screen-illustration-background-free-png.png" alt="pulse" width=250\>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmwaskom%2Fseaborn%2Fissues%2F2243&psig=AOvVaw07fdlrZ9n5dT2DWh6UHbr6&ust=1694514837804000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCfuemtooEDFQAAAAAdAAAAABAQ" alt="pulse" width=250\>
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 <details>
