@@ -37,7 +37,6 @@ It contains different ML projects which created by using seaborn datasets.
 ## Built With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-<img src="https://www.pngkey.com/png/full/532-5326567_there-is-a-tool-for-load-testing-the.png" alt="Jupyter Logo" width="200"/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
