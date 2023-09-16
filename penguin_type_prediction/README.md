@@ -1,5 +1,5 @@
 ## PENGUIN SPECIES PREDICTION PROJECT 
-<img src="https://static.vecteezy.com/system/resources/thumbnails/015/309/493/small/heart-rate-pulse-icon-medicine-logo-heartbeat-heart-rate-icon-audio-sound-radio-wave-amplitude-spikes-free-png.png" alt="insurance" width=250>
+<img src="https://www.freeiconspng.com/thumbs/penguin-png/madagascar-penguin-png-1.png" alt="insurance" width=250>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
