@@ -32,7 +32,7 @@ It contains different ML projects which created by using seaborn datasets.
 [Project Details](https://github.com/zehrarhez/seaborn_ML_models/tree/main/pulse_prediction_RFC)
 
 ## 2. Penguin Species Prediction Project with Random Forest Classification <br>
-  ● In this project, specied is predicted according to penguins' bill length, bill depth, flipper length, body mass, island and sex. <br>
+  ● In this project, species is predicted according to penguins' bill length, bill depth, flipper length, body mass, island and sex. <br>
    ● Project has a Flask app to be able to serve the last user. <br>
    <br>
 [Project Details](https://github.com/zehrarhez/seaborn_ML_models/tree/main/penguin_type_prediction)   
