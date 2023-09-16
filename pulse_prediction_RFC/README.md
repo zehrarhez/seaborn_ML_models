@@ -1,5 +1,5 @@
 ## PULSE PREDICTION PROJECT 
-<img src="https://png.pngtree.com/png-vector/20210925/ourmid/pngtree-heartbeat-or-heart-pulse-cardiogram-line-png-image_3958596.png" alt="insurance" width=250>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/015/309/493/small/heart-rate-pulse-icon-medicine-logo-heartbeat-heart-rate-icon-audio-sound-radio-wave-amplitude-spikes-free-png.png" alt="insurance" width=250>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
