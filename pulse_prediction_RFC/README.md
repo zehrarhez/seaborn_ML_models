@@ -68,6 +68,7 @@ First, you need to have some libraries and packages to run the app. You should i
 - [ ] Preprocessing on the Data
 - [ ] Deciding the Model by using Cross Validation
 - [ ] Training the Best Model
+- [ ] Create the Flask app
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
