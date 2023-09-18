@@ -14,8 +14,10 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+      <ul>
+        <li><a href="#updates">Updates</a></li>
+      </ul>
     </li>
-    <li><a href="#updates">Updates<a/><li/>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
