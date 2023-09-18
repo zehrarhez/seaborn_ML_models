@@ -35,7 +35,7 @@
 
 Project has a aim of predicting species according to penguins' bill length, bill depth, flipper length, body mass, island and sex.
 
-![Model Değerlendirmesi](seaborn_ML_models/penguin_type_prediction/varyans_bias.jpg)
+![Model Değerlendirmesi](varyans_bias.jpg)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
