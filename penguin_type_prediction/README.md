@@ -15,6 +15,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#updates">Updates<a/><li/>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -35,7 +36,7 @@
 
 Project has a aim of predicting species according to penguins' bill length, bill depth, flipper length, body mass, island and sex.
 
-## UPDATE
+## Updates
 End of the project, I evaluated the model's performance. For this, I calculated the variance, bias and mse values. 
 If the values are closer to the zero, model is best that much. <br>
 ![Model Değerlendirmesi](varyans_bias.jpg)
