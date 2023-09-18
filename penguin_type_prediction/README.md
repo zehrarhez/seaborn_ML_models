@@ -1,9 +1,6 @@
 ## PENGUIN SPECIES PREDICTION PROJECT 
 <img src="https://www.freeiconspng.com/thumbs/penguin-png/madagascar-penguin-png-1.png" alt="insurance" width=250>
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -42,7 +39,7 @@ Project has a aim of predicting species according to penguins' bill length, bill
 End of the project, I evaluated the model's performance. For this, I calculated the variance, bias and mse values. 
 If the values are closer to the zero, model is best that much. <br>
 ![Model Değerlendirmesi](varyans_bias.jpg)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -50,7 +47,6 @@ If the values are closer to the zero, model is best that much. <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -64,7 +60,7 @@ First, you need to have some libraries and packages to run the app. You should i
   pip install -r requirements.txt
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -78,8 +74,6 @@ First, you need to have some libraries and packages to run the app. You should i
 - [ ] Create the Flask app
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -91,7 +85,6 @@ First, you need to have some libraries and packages to run the app. You should i
 4. Push to the Branch (`git push origin `)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -101,8 +94,6 @@ First, you need to have some libraries and packages to run the app. You should i
 Zehra ÖZEREN - zehrarhezz9@gmail.com
 
 Project Link: [Penguin Species Prediction Project](https://github.com/zehrarhez/seaborn_ML_models/tree/main/penguin_type_prediction)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -115,9 +106,8 @@ Project Link: [Penguin Species Prediction Project](https://github.com/zehrarhez/
 * [Hyperparameter Tuning](https://www.geeksforgeeks.org/hyperparameter-tuning/)
 * [Grid Search & Randomized Search](https://www.geeksforgeeks.org/comparing-randomized-search-and-grid-search-for-hyperparameter-estimation-in-scikit-learn/)
 * [Random Forest Algorithm](https://miracozturk.com/python-ile-siniflandirma-analizleri-rastgele-orman-random-forest-algoritmasi/)
+* [Bias and Variance](https://medium.com/datarunner/bias-ve-varyans-dengesi-üzerinden-overfitting-ve-underfitting-durumlarının-anlaşılması-ca26cea65bb4)
   
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
