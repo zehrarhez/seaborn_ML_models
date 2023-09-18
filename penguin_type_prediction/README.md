@@ -38,7 +38,7 @@ Project has a aim of predicting species according to penguins' bill length, bill
 ## Updates
 End of the project, I evaluated the model's performance. For this, I calculated the variance, bias and mse values. 
 If the values are closer to the zero, model is best that much. <br>
-![Model Değerlendirmesi](varyans_bias.jpg)
+<br>![Model Değerlendirmesi](varyans_bias.jpg)
 
 
 
